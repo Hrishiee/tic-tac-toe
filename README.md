@@ -6,13 +6,13 @@ A modern implementation of the classic Tic-Tac-Toe game built with React and sty
 
 ## Features
 
-- 🎮 Classic Tic-Tac-Toe gameplay
-- 🎯 Turn-based system (X and O players)
-- 🏆 Automatic win detection
-- 🤝 Draw game detection
-- 📜 Move history with time travel
-- 📱 Responsive design for all devices
-- 🎨 Modern UI with Tailwind CSS
+-  Classic Tic-Tac-Toe gameplay
+-  Turn-based system (X and O players)
+-  Automatic win detection
+-  Draw game detection
+-  Move history with time travel
+-  Responsive design for all devices
+-  Modern UI with Tailwind CSS
 
 ## Technologies Used
 
@@ -59,46 +59,6 @@ A modern implementation of the classic Tic-Tac-Toe game built with React and sty
 4. If no player gets 3 in a row and all squares are filled, the game is a draw
 5. Use the move history on the right to go back to any previous game state
 
-## Project Structure
 
-```
-tic-tac-toe/
-├── src/
-│   ├── App.jsx        # Main game component
-│   ├── main.jsx       # Entry point
-│   └── index.css      # Global styles and Tailwind
-├── public/
-├── index.html
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── postcss.config.js
-```
 
-## Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by the React official tutorial
-- Modern UI design principles
-- Tailwind CSS for styling
-
----
-Made with ❤️ and React
